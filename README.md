@@ -1,6 +1,13 @@
 <h1>Hey There
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  </h1>
+ <div  alighn="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRscnIya2h2aWE0ZHRldmQ5MHF0b3d2YXRmZWJuYjdnZjBwNWJxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"
+ </div>
+ ---
+  
+ ### 👩‍💻  About me :
+ 
 
 <!--
 **Monique18/Monique18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
