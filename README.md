@@ -1,7 +1,7 @@
 <h1>Hey There
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+ Welcome
  </h1>
- <h2>Welcome, my name is Monica Phele</h2>
  
  <div  alighn="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRscnIya2h2aWE0ZHRldmQ5MHF0b3d2YXRmZWJuYjdnZjBwNWJxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"
