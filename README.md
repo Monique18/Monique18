@@ -11,7 +11,9 @@
  ### 👩‍💻  About me :
 
  - 👩‍🎓: I am a Computer Science student at the University of South Africa
+   
  - 💖: I am passionate about innovation through technology and collaboration
+   
  - 🥾 : In my free time I enjoy outdoor activities like hiking
  - 📫: How to reach me: [![Linkedin_Badge](https://img.shields.io/badge/-monica-blue?style=flat&logo=Linkedin&logoColor=white)](www.Linkedin.com/in/monica-phele)
  ---
@@ -27,5 +29,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-line.svg" title="xml" alt="xml width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python"  width="40" height="40"/>&nbsp;
 </div>
+---
+
+### :fire: My Stats :
+<div>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monique18&layout=compact&theme=vision-friendly-dark)](https://github.com/Monique18/github-readme-stats)
+</div>
+
 
 
